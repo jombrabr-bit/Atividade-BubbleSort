@@ -32,7 +32,7 @@ class Program
                     temp = vetor[j];
                     vetor[j] = vetor[j + 1];
                     vetor[j + 1] = temp;
-                }
+                
             }
         }
     }
